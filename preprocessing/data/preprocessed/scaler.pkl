@@ -1,0 +1,2 @@
+# Placeholder for StandardScaler pickle file
+# This file will be generated when running the preprocessing pipeline
